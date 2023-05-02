@@ -32,7 +32,8 @@ Durante o meu tempo na Prodam, tive a oportunidade de trabalhar em diversos proj
 
 ## 📃 Projetos:
 <details>
-  <summary>Clique aqui para expandir</summary>
+  <summary>Clique aqui descobrir sobre meus projetos</summary>
+  
     Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em diversos projetos, tanto profissionais quanto pessoais, que me permitiram aprimorar     minhas habilidades e conhecimentos em tecnologia.
 
     Um dos projetos que desenvolvi na Prodam foi um sistema de gerenciamento de informações para um órgão público, utilizando o padrão de arquitetura MVC. Nesse           projeto, pude colaborar com uma equipe de desenvolvedores experientes e aprender muito sobre boas práticas de programação e metodologias ágeis.
