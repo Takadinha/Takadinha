@@ -6,17 +6,17 @@
 
 </div>
   
-## 💬 Sobre Mim
+## 💬 Sobre Mim:
 
 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistemas de Informação. Tenho um forte interesse na área de Full Stack e possuo experiência em linguagens de programação como Java, Python, C#, HTML e CSS, bem como em frameworks populares do mercado. Busco constantemente me atualizar e aprender novas habilidades para aprimorar minhas capacidades como desenvolvedor Full Stack. Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia.
 
-## 💻 Habilidades
+## 💻 Habilidades:
 
 - Linguagens de programação: Java, Python, C#, HTML, CSS
 - Frameworks: 
 - Ferramentas: 
 
-## 💼 Experiência
+## 💼 Experiência:
 
 ### Estagiário de Desenvolvimento de Softwares na Prodam 
 
@@ -30,7 +30,7 @@ Participação em reuniões com os analistas e desenvolvedores para discutir o a
 Aprendizagem e aprimoramento das habilidades de programação
 Durante o meu tempo na Prodam, tive a oportunidade de trabalhar em diversos projetos desafiadores que me permitiram expandir meu conhecimento em desenvolvimento de software e me tornar mais confortável em trabalhar em equipe. Foi uma experiência enriquecedora que me permitiu crescer profissionalmente e adquirir novas habilidades e conhecimentos.
 
-## 📃 Projetos
+## 📃 Projetos:
 
 Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em diversos projetos, tanto profissionais quanto pessoais, que me permitiram aprimorar minhas habilidades e conhecimentos em tecnologia.
 
@@ -40,7 +40,7 @@ Além disso, tenho alguns projetos pessoais que desenvolvi para aprimorar minhas
 
 No geral, esses projetos me permitiram adquirir conhecimentos em diversas tecnologias e metodologias, além de aprimorar minhas habilidades de programação e resolução de problemas. Estou sempre em busca de novos projetos e desafios para continuar aprendendo e crescendo como desenvolvedor.
 
-## 📞 Contato
+## 📞 Contato:
 
-- E-mail:  kauetakadapro@gmail.com
+[kauetakadapro@gmail.com](https://www.flaticon.com/br/icone-gratis/gmail_2504727?term=email&page=1&position=8&origin=search&related_id=2504727) 
 - LinkedIn: [Kauê Yotsuo Pereira Takada](https://www.linkedin.com/in/kauê-yotsuo-pereira-takada-b13654209/)
