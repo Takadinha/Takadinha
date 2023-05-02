@@ -20,7 +20,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistema
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="62" height="50" alt="python logo" title="Python" />
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="62" height="50" alt="thymeleaf logo" title="thymeleaf" />
   <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" width="62" height="50" alt="sql logo" title="sql" />
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_0b8322f146a8cd84d3fd4f953bcd5493/enterprise-architect.png" width="80" height="50" alt="ea logo" title="EA" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3f47745a-b3a9-45a1-bf44-3168f86fa5e0.png?fit=max&w=104&fm=png&auto=format" width="62" height="50" alt="ea logo" title="EA" />
 </div>
 
 ## 💼 Experiência:
