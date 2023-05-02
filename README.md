@@ -15,8 +15,8 @@ Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistema
 <div style="display:inline-block">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="62" height="50" alt="java logo" title="Java"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
-  <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="80" height="50" alt="csharp logo" title="HTML/CSS/JS" />
-  <img src="hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fstackshare.io%2Fsoap-ui&psig=AOvVaw0JThjPp4yB_vVc6PGCIu-A&ust=1683117090811000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOicm_TR1v4CFQAAAAAdAAAAABBD" width="62" height="50" alt="csharp logo" title="SOAP UI" />
+  <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="80" height="50" alt="HTML/CSS/JS logo" title="HTML/CSS/JS" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackshare.io%2Fsoap-ui&psig=AOvVaw0JThjPp4yB_vVc6PGCIu-A&ust=1683117090811000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOicm_TR1v4CFQAAAAAdAAAAABBD" width="62" height="50" alt="SOAP UI logo" title="SOAP UI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
 </div>
