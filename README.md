@@ -24,7 +24,7 @@ Como estagiário de desenvolvimento de softwares na Prodam, trabalhei em projeto
 
 <details>
   
-  <summary><strong>Algumas das minhas principais atividades incluíam:</strong></summary>
+  <summary><strong> 👆 Algumas das minhas principais atividades incluíam:</strong></summary>
   
  </br>
 
@@ -42,7 +42,7 @@ Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em d
     
 <details>
   
-  <summary><strong>Clique aqui saber mais</strong></summary>
+  <summary><strong> 👆 Alguns dos projetos eram</strong></summary>
   
  </br>
   
