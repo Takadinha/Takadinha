@@ -10,11 +10,18 @@
 
 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistemas de Informação. Tenho um forte interesse na área de Full Stack e possuo experiência em linguagens de programação como Java, Python, C#, HTML e CSS, bem como em frameworks populares do mercado. Busco constantemente me atualizar e aprender novas habilidades para aprimorar minhas capacidades como desenvolvedor Full Stack. Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia.
 
-## 💻 Habilidades:
-
-- Linguagens de programação: Java, Python, C#, HTML, CSS
-- Frameworks: 
-- Ferramentas: 
+## 💻 Habilidades(Linguagens de programação/Frameworks/Ferramentas):
+![](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
+![](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 💼 Experiência:
 
