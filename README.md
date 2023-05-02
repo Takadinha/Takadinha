@@ -46,5 +46,5 @@ No geral, esses projetos me permitiram adquirir conhecimentos em diversas tecnol
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 <a href="mailto:kauetakadapro@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="42" height="30" alt="gmail logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="42" height="40" alt="gmail logo"  />
 </a>
