@@ -1,6 +1,6 @@
 # Olá, eu sou Kauê Takada 👋
 
-##Sobre Mim
+## Sobre Mim
 
 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistemas de Informação. Tenho um forte interesse na área de Full Stack e possuo experiência em linguagens de programação como Java, Python, C#, HTML e CSS, bem como em frameworks populares do mercado. Busco constantemente me atualizar e aprender novas habilidades para aprimorar minhas capacidades como desenvolvedor Full Stack. Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia.
 
