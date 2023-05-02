@@ -18,7 +18,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistema
 
 ## 💼 Experiência
 
-### Estagiário de Desenvolvimento de Softwares na Prodam  [a](https://discord.com/channels/821418116978442260/1102917425529368596/1102917473747095682)
+### Estagiário de Desenvolvimento de Softwares na Prodam  ![](https://discord.com/channels/821418116978442260/1102917425529368596/1102917473747095682)
 
 Como estagiário de desenvolvimento de softwares na Prodam, trabalhei em projetos que envolviam linguagens como Java, SQL, C#, JavaScript, CSS e HTML. Minha principal responsabilidade era resolver bugs e implementar novas funcionalidades nos aplicativos usando o padrão de arquitetura MVC. Além disso, tive a oportunidade de colaborar diariamente com analistas e desenvolvedores experientes, aprimorando minhas habilidades de programação e conhecimentos em tecnologias atuais.
 
