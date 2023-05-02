@@ -12,7 +12,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistema
 
 ## 💻 Habilidades(Linguagens de programação/Frameworks/Ferramentas):
 
-<div style="display:inline-block" align="center">
+<div style="display:inline-block">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="62" height="50" alt="java logo" title="Java"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
 </div>
