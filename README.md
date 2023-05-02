@@ -30,7 +30,7 @@ Participação em reuniões com os analistas e desenvolvedores para discutir o a
 Aprendizagem e aprimoramento das habilidades de programação
 Durante o meu tempo na Prodam, tive a oportunidade de trabalhar em diversos projetos desafiadores que me permitiram expandir meu conhecimento em desenvolvimento de software e me tornar mais confortável em trabalhar em equipe. Foi uma experiência enriquecedora que me permitiu crescer profissionalmente e adquirir novas habilidades e conhecimentos.
 
-## Projetos
+## 📃 Projetos
 
 Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em diversos projetos, tanto profissionais quanto pessoais, que me permitiram aprimorar minhas habilidades e conhecimentos em tecnologia.
 
