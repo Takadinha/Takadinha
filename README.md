@@ -22,13 +22,19 @@ Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistema
 
 Como estagiário de desenvolvimento de softwares na Prodam, trabalhei em projetos que envolviam linguagens como Java, SQL, C#, JavaScript, CSS e HTML. Minha principal responsabilidade era resolver bugs e implementar novas funcionalidades nos aplicativos usando o padrão de arquitetura MVC. Além disso, tive a oportunidade de colaborar diariamente com analistas e desenvolvedores experientes, aprimorando minhas habilidades de programação e conhecimentos em tecnologias atuais.
 
-Algumas das minhas principais atividades incluíam:
+<details>
+  
+  <summary><strong>Algumas das minhas principais atividades incluíam:</strong></summary>
+  
+ </br>
 
 Desenvolvimento de novas funcionalidades para os aplicativos existentes
 Correção de bugs e erros de aplicativos
 Participação em reuniões com os analistas e desenvolvedores para discutir o andamento do projeto
 Aprendizagem e aprimoramento das habilidades de programação
 Durante o meu tempo na Prodam, tive a oportunidade de trabalhar em diversos projetos desafiadores que me permitiram expandir meu conhecimento em desenvolvimento de software e me tornar mais confortável em trabalhar em equipe. Foi uma experiência enriquecedora que me permitiu crescer profissionalmente e adquirir novas habilidades e conhecimentos.
+
+</details>
 
 ## 📃 Projetos:
 
