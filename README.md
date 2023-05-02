@@ -42,7 +42,7 @@ Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em d
     
 <details>
   
-  <summary><strong> 👆 Alguns dos projetos eram</strong></summary>
+  <summary><strong> 👆 Alguns dos projetos criados:</strong></summary>
   
  </br>
   
