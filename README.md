@@ -36,7 +36,7 @@ Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em d
     
 <details>
   
-  <summary><span style="color: blue;">Clique aqui para expandir</span></summary>
+  <summary><strong>Clique aqui saber mais</strong></summary>
   
  </br>
   
