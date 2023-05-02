@@ -38,6 +38,8 @@ Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em d
   
   <summary>Clique aqui descobrir sobre meus projetos</summary>
   
+ <br>
+  
 Um dos projetos que desenvolvi na Prodam foi um sistema de gerenciamento de informações para um órgão público, utilizando o padrão de arquitetura MVC. Nesse           projeto, pude colaborar com uma equipe de desenvolvedores experientes e aprender muito sobre boas práticas de programação e metodologias ágeis.
 
 Além disso, tenho alguns projetos pessoais que desenvolvi para aprimorar minhas habilidades em tecnologias específicas. Por exemplo, um projeto que criei para         estudar a plataforma da Alura, utilizando Java, Spring Boot, JPA e Thymeleaf para construir um catalogo de filmes online.
