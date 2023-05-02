@@ -15,9 +15,9 @@ Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistema
 <div style="display:inline-block">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="62" height="50" alt="java logo" title="Java"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="62" height="50" alt="csharp logo" title="JS" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="62" height="50" alt="csharp logo" title="CSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="62" height="50" alt="csharp logo" title="CSS" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="62" height="50" alt="csharp logo" title="HTML" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="62" height="50" alt="csharp logo" title="JS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="62" height="50" alt="csharp logo" title="C#" />
