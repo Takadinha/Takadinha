@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" alt="Inicio" title="Inicio"/>
 
 </div>
   
