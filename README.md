@@ -31,16 +31,17 @@ Aprendizagem e aprimoramento das habilidades de programação
 Durante o meu tempo na Prodam, tive a oportunidade de trabalhar em diversos projetos desafiadores que me permitiram expandir meu conhecimento em desenvolvimento de software e me tornar mais confortável em trabalhar em equipe. Foi uma experiência enriquecedora que me permitiu crescer profissionalmente e adquirir novas habilidades e conhecimentos.
 
 ## 📃 Projetos:
+
+    Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em diversos projetos, tanto profissionais quanto pessoais, que me permitiram aprimorar     minhas habilidades e conhecimentos em tecnologia.
+    
 <details>
   <summary>Clique aqui descobrir sobre meus projetos</summary>
-  
-    Durante minha carreira como desenvolvedor, tive a oportunidade de trabalhar em diversos projetos, tanto profissionais quanto pessoais, que me permitiram aprimorar     minhas habilidades e conhecimentos em tecnologia.
-
     Um dos projetos que desenvolvi na Prodam foi um sistema de gerenciamento de informações para um órgão público, utilizando o padrão de arquitetura MVC. Nesse           projeto, pude colaborar com uma equipe de desenvolvedores experientes e aprender muito sobre boas práticas de programação e metodologias ágeis.
 
     Além disso, tenho alguns projetos pessoais que desenvolvi para aprimorar minhas habilidades em tecnologias específicas. Por exemplo, um projeto que criei para         estudar a plataforma da Alura, utilizando Java, Spring Boot, JPA e Thymeleaf para construir um catalogo de filmes online.
 
     No geral, esses projetos me permitiram adquirir conhecimentos em diversas tecnologias e metodologias, além de aprimorar minhas habilidades de programação e             resolução de problemas. Estou sempre em busca de novos projetos e desafios para continuar aprendendo e crescendo como desenvolvedor.
+  
 </details>
 
 ## 📞 Contato:
