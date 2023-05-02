@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, eu sou Kauê Takada 👋
 
-<!--
-**Takadinha/Takadinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação e estagiário de Desenvolvimento de Softwares na Prodam. Gosto de trabalhar com linguagens como Java, Python, C#, HTML e CSS, e já utilizei diversos frameworks populares no mercado.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagens de programação: Java, Python, C#, HTML, CSS
+- Frameworks: 
+- Ferramentas: 
+
+## Experiência
+
+### Estagiário de Desenvolvimento de Softwares na Prodam
+
+[descrever suas principais atividades e responsabilidades como estagiário na Prodam]
+
+## Projetos
+
+[descrever brevemente alguns projetos em que você trabalhou, destacando suas principais contribuições e tecnologias utilizadas]
+
+## Contato
+
+- E-mail:
+- LinkedIn: 
+- E-mail:  kauetakadapro@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/kauê-yotsuo-pereira-takada-b13654209/</a>
