@@ -1,4 +1,4 @@
-# Olá, eu sou Kauê Takada 👋
+# 👋 Olá, eu sou Kauê Takada 
 
 <div align="center"> 
   
@@ -6,19 +6,19 @@
 
 </div>
   
-## Sobre Mim
+## 💬 Sobre Mim
 
 Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistemas de Informação. Tenho um forte interesse na área de Full Stack e possuo experiência em linguagens de programação como Java, Python, C#, HTML e CSS, bem como em frameworks populares do mercado. Busco constantemente me atualizar e aprender novas habilidades para aprimorar minhas capacidades como desenvolvedor Full Stack. Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e contribuir para o sucesso de projetos de tecnologia.
 
-## Habilidades
+## 💻 Habilidades
 
 - Linguagens de programação: Java, Python, C#, HTML, CSS
 - Frameworks: 
 - Ferramentas: 
 
-## Experiência
+## 💼 Experiência
 
-### Estagiário de Desenvolvimento de Softwares na Prodam
+### Estagiário de Desenvolvimento de Softwares na Prodam  [](https://discord.com/channels/821418116978442260/1102917425529368596/1102917473747095682)
 
 Como estagiário de desenvolvimento de softwares na Prodam, trabalhei em projetos que envolviam linguagens como Java, SQL, C#, JavaScript, CSS e HTML. Minha principal responsabilidade era resolver bugs e implementar novas funcionalidades nos aplicativos usando o padrão de arquitetura MVC. Além disso, tive a oportunidade de colaborar diariamente com analistas e desenvolvedores experientes, aprimorando minhas habilidades de programação e conhecimentos em tecnologias atuais.
 
@@ -40,7 +40,7 @@ Além disso, tenho alguns projetos pessoais que desenvolvi para aprimorar minhas
 
 No geral, esses projetos me permitiram adquirir conhecimentos em diversas tecnologias e metodologias, além de aprimorar minhas habilidades de programação e resolução de problemas. Estou sempre em busca de novos projetos e desafios para continuar aprendendo e crescendo como desenvolvedor.
 
-## Contato
+## 📞 Contato
 
 - E-mail:  kauetakadapro@gmail.com
 - LinkedIn: [Kauê Yotsuo Pereira Takada](https://www.linkedin.com/in/kauê-yotsuo-pereira-takada-b13654209/)
