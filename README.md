@@ -42,5 +42,5 @@ No geral, esses projetos me permitiram adquirir conhecimentos em diversas tecnol
 
 ## 📞 Contato:
 
-[kauetakadapro@gmail.com](https://www.flaticon.com/br/icone-gratis/gmail_2504727?term=email&page=1&position=8&origin=search&related_id=2504727) 
+[https://www.flaticon.com/br/icone-gratis/gmail_2504727?term=email&page=1&position=8&origin=search&related_id=2504727](kauetakadapro@gmail.com) 
 - LinkedIn: [Kauê Yotsuo Pereira Takada](https://www.linkedin.com/in/kauê-yotsuo-pereira-takada-b13654209/)
