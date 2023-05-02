@@ -35,4 +35,4 @@ No geral, esses projetos me permitiram adquirir conhecimentos em diversas tecnol
 ## Contato
 
 - E-mail:  kauetakadapro@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kauê-yotsuo-pereira-takada
+- LinkedIn: [https://www.linkedin.com/in/kauê-yotsuo-pereira-takada](https://www.linkedin.com/in/kauê-yotsuo-pereira-takada-b13654209/)
