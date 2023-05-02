@@ -45,7 +45,6 @@ No geral, esses projetos me permitiram adquirir conhecimentos em diversas tecnol
 <a href="https://www.linkedin.com/in/kauê-yotsuo-pereira-takada-b13654209/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
-<a href="kauetakadapro@gmail.com" target="_blank">
+<a href="mailto:kauetakadapro@gmail.com" target="_blank">
     <img src="https://icons8.com.br/icon/37246/gmail" width="52" height="40" alt="gmail logo"  />
 </a>
-
