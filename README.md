@@ -22,7 +22,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando Sistema
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" width="62" height="50" alt="sql logo" title="sql" />
   <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3f47745a-b3a9-45a1-bf44-3168f86fa5e0.png?fit=max&w=104&fm=png&auto=format" width="62" height="50" alt="ea logo" title="EA" />
   <br>
-  ### E estudando....
+  <h3>E estudando....</h3>
 </div>
 
 ## 💼 Experiência:
